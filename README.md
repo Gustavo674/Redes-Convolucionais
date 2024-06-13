@@ -92,4 +92,4 @@ python3 run.py
 
 ## Vídeo de Demonstração
 
-(Link para o vídeo)[https://drive.google.com/file/d/1P-lHtkB-Yk-gB5lz7HMZlsTbJm1IfDme/view?usp=sharing]
+[Link para o vídeo](https://drive.google.com/file/d/1P-lHtkB-Yk-gB5lz7HMZlsTbJm1IfDme/view?usp=sharing)
