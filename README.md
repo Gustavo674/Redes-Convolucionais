@@ -68,7 +68,6 @@ python3 run.py
     - Saída: JSON com as predições dos modelos CNN e Linear.
 
 ```json
-Copiar código
 {
   "digit_cnn": 5,
   "digit_linear": 5
